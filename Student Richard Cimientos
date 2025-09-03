@@ -1,0 +1,19 @@
+
+
+public class Student{
+//attributes
+  String name;
+  int id;
+
+//constructors
+  name = ""
+  id = 0
+
+  //methods
+  public in getID(){
+    return id;
+  }
+  
+  public string getName(){
+    return name;
+}
